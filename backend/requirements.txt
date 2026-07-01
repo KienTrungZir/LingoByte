@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pyodbc
+pydantic[email]
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+networkx
+pandas
+numpy
+joblib
+scikit-learn
+pyarrow

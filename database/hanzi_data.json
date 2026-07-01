@@ -1,0 +1,2194 @@
+{
+  "radicals": [
+    {
+      "id": "rad-一",
+      "label": "一",
+      "meaning": "Nhất - Một, số một",
+      "variant": "",
+      "pinyin": "yī",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-丨",
+      "label": "丨",
+      "meaning": "Cổn - Nét sổ thẳng",
+      "variant": "",
+      "pinyin": "shù",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-丶",
+      "label": "丶",
+      "meaning": "Chủ - Điểm, dấu chấm",
+      "variant": "",
+      "pinyin": "diǎn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-丿",
+      "label": "丿",
+      "meaning": "Phiệt - Nét sổ xiên",
+      "variant": "",
+      "pinyin": "piě",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-乙",
+      "label": "乙",
+      "meaning": "Ất - Thứ hai, vị trí lẻ",
+      "variant": "",
+      "pinyin": "yǐ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-亅",
+      "label": "亅",
+      "meaning": "Quyết - Nét sổ có móc",
+      "variant": "",
+      "pinyin": "jué",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-二",
+      "label": "二",
+      "meaning": "Nhị - Số hai",
+      "variant": "",
+      "pinyin": "èr",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-亠",
+      "label": "亠",
+      "meaning": "Đầu - Mái che, đầu",
+      "variant": "",
+      "pinyin": "tóu",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-人",
+      "label": "人",
+      "meaning": "Nhân - Người",
+      "variant": "亻",
+      "pinyin": "rén",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-儿",
+      "label": "儿",
+      "meaning": "Nhi - Trẻ con",
+      "variant": "",
+      "pinyin": "ér",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-入",
+      "label": "入",
+      "meaning": "Nhập - Vào trong",
+      "variant": "",
+      "pinyin": "rù",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-八",
+      "label": "八",
+      "meaning": "Bát - Số tám",
+      "variant": "",
+      "pinyin": "bā",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-冂",
+      "label": "冂",
+      "meaning": "Quynh - Vùng biên giới",
+      "variant": "",
+      "pinyin": "jiōng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-冖",
+      "label": "冖",
+      "meaning": "Mịch - Trùm khăn",
+      "variant": "",
+      "pinyin": "mì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-冫",
+      "label": "冫",
+      "meaning": "Băng - Nước đá",
+      "variant": "",
+      "pinyin": "bīng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-几",
+      "label": "几",
+      "meaning": "Kỷ - Ghế dựa",
+      "variant": "",
+      "pinyin": "jǐ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-凵",
+      "label": "凵",
+      "meaning": "Khảm - Há miệng",
+      "variant": "",
+      "pinyin": "qiǎn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-刀",
+      "label": "刀",
+      "meaning": "Đao - Con dao",
+      "variant": "刂",
+      "pinyin": "dāo",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-力",
+      "label": "力",
+      "meaning": "Lực - Sức mạnh",
+      "variant": "",
+      "pinyin": "lì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-勹",
+      "label": "勹",
+      "meaning": "Bao - Bao bọc",
+      "variant": "",
+      "pinyin": "bāo",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-匕",
+      "label": "匕",
+      "meaning": "Chuỷ - Cái thìa",
+      "variant": "",
+      "pinyin": "bǐ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-匚",
+      "label": "匚",
+      "meaning": "Phương - Tủ đựng",
+      "variant": "",
+      "pinyin": "fāng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-匸",
+      "label": "匸",
+      "meaning": "Hệ - Che phủ",
+      "variant": "",
+      "pinyin": "xì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-十",
+      "label": "十",
+      "meaning": "Thập - Số mười",
+      "variant": "",
+      "pinyin": "shí",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-卜",
+      "label": "卜",
+      "meaning": "Bốc - Xem bói",
+      "variant": "",
+      "pinyin": "bo",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-卩",
+      "label": "卩",
+      "meaning": "Tiết - Đốt tre, khớp",
+      "variant": "",
+      "pinyin": "jié",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-厂",
+      "label": "厂",
+      "meaning": "Hán - Sườn núi",
+      "variant": "",
+      "pinyin": "chǎng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-厶",
+      "label": "厶",
+      "meaning": "Khư - Riêng tư",
+      "variant": "",
+      "pinyin": "sī",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-又",
+      "label": "又",
+      "meaning": "Hựu - Lại nữa, lại lần nữa",
+      "variant": "",
+      "pinyin": "yòu",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-口",
+      "label": "口",
+      "meaning": "Khẩu - Miệng",
+      "variant": "",
+      "pinyin": "kǒu",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-囗",
+      "label": "囗",
+      "meaning": "Vi - Vây quanh",
+      "variant": "",
+      "pinyin": "wéi",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-土",
+      "label": "土",
+      "meaning": "Thổ - Đất",
+      "variant": "",
+      "pinyin": "tǔ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-士",
+      "label": "士",
+      "meaning": "Sĩ - Kẻ sĩ, quan",
+      "variant": "",
+      "pinyin": "shì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-夂",
+      "label": "夂",
+      "meaning": "Tuy - Đi chậm",
+      "variant": "",
+      "pinyin": "zhǐ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-夊",
+      "label": "夊",
+      "meaning": "Truy - Đến sau",
+      "variant": "",
+      "pinyin": "suī",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-夕",
+      "label": "夕",
+      "meaning": "Tịch - Ban đêm",
+      "variant": "",
+      "pinyin": "xī",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-大",
+      "label": "大",
+      "meaning": "Đại - To lớn",
+      "variant": "",
+      "pinyin": "dà",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-女",
+      "label": "女",
+      "meaning": "Nữ - Phụ nữ",
+      "variant": "",
+      "pinyin": "nǚ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-子",
+      "label": "子",
+      "meaning": "Tử - Con cái",
+      "variant": "",
+      "pinyin": "zi",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-宀",
+      "label": "宀",
+      "meaning": "Miên - Mái nhà",
+      "variant": "",
+      "pinyin": "gài",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-寸",
+      "label": "寸",
+      "meaning": "Thốn - Tấc, đo lường",
+      "variant": "",
+      "pinyin": "cùn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-小",
+      "label": "小",
+      "meaning": "Tiểu - Nhỏ bé",
+      "variant": "",
+      "pinyin": "xiǎo",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-尢",
+      "label": "尢",
+      "meaning": "Uông - Yếu đuối",
+      "variant": "",
+      "pinyin": "yóu",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-尸",
+      "label": "尸",
+      "meaning": "Thi - Xác chết",
+      "variant": "",
+      "pinyin": "shī",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-屮",
+      "label": "屮",
+      "meaning": "Triệt - Mầm non",
+      "variant": "",
+      "pinyin": "chè",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-山",
+      "label": "山",
+      "meaning": "Sơn - Núi",
+      "variant": "",
+      "pinyin": "shān",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-川",
+      "label": "川",
+      "meaning": "Xuyên - Sông ngòi",
+      "variant": "",
+      "pinyin": "chuān",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-工",
+      "label": "工",
+      "meaning": "Công - Thợ, công việc",
+      "variant": "",
+      "pinyin": "gōng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-己",
+      "label": "己",
+      "meaning": "Kỷ - Bản thân mình",
+      "variant": "",
+      "pinyin": "jǐ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-巾",
+      "label": "巾",
+      "meaning": "Cân - Cái khăn",
+      "variant": "",
+      "pinyin": "jīn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-干",
+      "label": "干",
+      "meaning": "Can - Thiên can, ngăn chặn",
+      "variant": "",
+      "pinyin": "gàn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-幺",
+      "label": "幺",
+      "meaning": "Yêu - Nhỏ nhắn",
+      "variant": "",
+      "pinyin": "yāo",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-广",
+      "label": "广",
+      "meaning": "Nghiễm - Mái nhà rộng",
+      "variant": "",
+      "pinyin": "guǎng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-廴",
+      "label": "廴",
+      "meaning": "Dẫn - Bước dài",
+      "variant": "",
+      "pinyin": "yǐn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-廾",
+      "label": "廾",
+      "meaning": "Củng - Chắp tay",
+      "variant": "",
+      "pinyin": "gǒng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-弋",
+      "label": "弋",
+      "meaning": "Dặc - Bắn cung",
+      "variant": "",
+      "pinyin": "yì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-弓",
+      "label": "弓",
+      "meaning": "Cung - Cái cung",
+      "variant": "",
+      "pinyin": "gōng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-彐",
+      "label": "彐",
+      "meaning": "Kệ - Đầu con nhím",
+      "variant": "",
+      "pinyin": "jì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-彡",
+      "label": "彡",
+      "meaning": "Sam - Lông dài",
+      "variant": "",
+      "pinyin": "shān",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-彳",
+      "label": "彳",
+      "meaning": "Xích - Bước chân trái",
+      "variant": "",
+      "pinyin": "chì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-心",
+      "label": "心",
+      "meaning": "Tâm - Tim, lòng",
+      "variant": "忄",
+      "pinyin": "xīn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-戈",
+      "label": "戈",
+      "meaning": "Qua - Vũ khí",
+      "variant": "",
+      "pinyin": "gē",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-戶",
+      "label": "戶",
+      "meaning": "Hộ - Cửa",
+      "variant": "",
+      "pinyin": "hù",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-手",
+      "label": "手",
+      "meaning": "Thủ - Tay",
+      "variant": "扌",
+      "pinyin": "shǒu",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-支",
+      "label": "支",
+      "meaning": "Chi - Cành cây",
+      "variant": "",
+      "pinyin": "zhī",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-攴",
+      "label": "攴",
+      "meaning": "Phác - Đánh nhẹ",
+      "variant": "攵",
+      "pinyin": "pū",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-文",
+      "label": "文",
+      "meaning": "Văn - Văn chương",
+      "variant": "",
+      "pinyin": "wén",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-斗",
+      "label": "斗",
+      "meaning": "Đẩu - Đo lường",
+      "variant": "",
+      "pinyin": "dòu",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-斤",
+      "label": "斤",
+      "meaning": "Cân - Cái rìu, cân",
+      "variant": "",
+      "pinyin": "jīn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-方",
+      "label": "方",
+      "meaning": "Phương - Hướng, vuông",
+      "variant": "",
+      "pinyin": "fāng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-无",
+      "label": "无",
+      "meaning": "Vô - Không có",
+      "variant": "",
+      "pinyin": "wú",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-日",
+      "label": "日",
+      "meaning": "Nhật - Mặt trời, ngày",
+      "variant": "",
+      "pinyin": "rì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-曰",
+      "label": "曰",
+      "meaning": "Viết - Nói rằng",
+      "variant": "",
+      "pinyin": "yuē",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-月",
+      "label": "月",
+      "meaning": "Nguyệt - Mặt trăng, tháng",
+      "variant": "",
+      "pinyin": "yuè",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-木",
+      "label": "木",
+      "meaning": "Mộc - Cây, gỗ",
+      "variant": "",
+      "pinyin": "mù",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-欠",
+      "label": "欠",
+      "meaning": "Khiếm - Khuyết thiếu",
+      "variant": "",
+      "pinyin": "qiàn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-止",
+      "label": "止",
+      "meaning": "Chỉ - Dừng lại",
+      "variant": "",
+      "pinyin": "zhǐ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-歹",
+      "label": "歹",
+      "meaning": "Đãi - Xấu xa",
+      "variant": "",
+      "pinyin": "dǎi",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-殳",
+      "label": "殳",
+      "meaning": "Thù - Vũ khí dài",
+      "variant": "",
+      "pinyin": "shū",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-毋",
+      "label": "毋",
+      "meaning": "Vô - Chớ, đừng",
+      "variant": "",
+      "pinyin": "wú",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-比",
+      "label": "比",
+      "meaning": "Tỷ - So sánh",
+      "variant": "",
+      "pinyin": "bǐ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-毛",
+      "label": "毛",
+      "meaning": "Mao - Lông",
+      "variant": "",
+      "pinyin": "máo",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-氏",
+      "label": "氏",
+      "meaning": "Thị - Họ",
+      "variant": "",
+      "pinyin": "shì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-气",
+      "label": "气",
+      "meaning": "Khí - Không khí",
+      "variant": "",
+      "pinyin": "qì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-水",
+      "label": "水",
+      "meaning": "Thủy - Nước",
+      "variant": "氵",
+      "pinyin": "shuǐ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-火",
+      "label": "火",
+      "meaning": "Hỏa - Lửa",
+      "variant": "灬",
+      "pinyin": "huǒ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-爪",
+      "label": "爪",
+      "meaning": "Trảo - Móng vuốt",
+      "variant": "",
+      "pinyin": "zhǎo",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-父",
+      "label": "父",
+      "meaning": "Phụ - Cha",
+      "variant": "",
+      "pinyin": "fù",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-爻",
+      "label": "爻",
+      "meaning": "Hào - Hào (Dịch)",
+      "variant": "",
+      "pinyin": "yáo",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-爿",
+      "label": "爿",
+      "meaning": "Tường - Mảnh gỗ",
+      "variant": "",
+      "pinyin": "qiáng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-片",
+      "label": "片",
+      "meaning": "Phiến - Lá, mảnh",
+      "variant": "",
+      "pinyin": "piàn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-牙",
+      "label": "牙",
+      "meaning": "Nha - Răng",
+      "variant": "",
+      "pinyin": "yá",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-牛",
+      "label": "牛",
+      "meaning": "Ngưu - Con trâu/bò",
+      "variant": "",
+      "pinyin": "niú",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-犬",
+      "label": "犬",
+      "meaning": "Khuyển - Con chó",
+      "variant": "犭",
+      "pinyin": "quǎn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-玄",
+      "label": "玄",
+      "meaning": "Huyền - Màu đen",
+      "variant": "",
+      "pinyin": "xuán",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-玉",
+      "label": "玉",
+      "meaning": "Ngọc - Ngọc bích",
+      "variant": "王",
+      "pinyin": "yù",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-瓜",
+      "label": "瓜",
+      "meaning": "Qua - Quả dưa",
+      "variant": "",
+      "pinyin": "guā",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-瓦",
+      "label": "瓦",
+      "meaning": "Ngõa - Ngói",
+      "variant": "",
+      "pinyin": "wǎ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-甘",
+      "label": "甘",
+      "meaning": "Cam - Ngọt",
+      "variant": "",
+      "pinyin": "gān",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-生",
+      "label": "生",
+      "meaning": "Sinh - Sống, đẻ",
+      "variant": "",
+      "pinyin": "shēng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-用",
+      "label": "用",
+      "meaning": "Dụng - Sử dụng",
+      "variant": "",
+      "pinyin": "yòng",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-田",
+      "label": "田",
+      "meaning": "Điền - Ruộng",
+      "variant": "",
+      "pinyin": "tián",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-疋",
+      "label": "疋",
+      "meaning": "Sơ - Chân, đo lường",
+      "variant": "",
+      "pinyin": "pǐ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-疒",
+      "label": "疒",
+      "meaning": "Nạch - Bệnh tật",
+      "variant": "",
+      "pinyin": "nè",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-癶",
+      "label": "癶",
+      "meaning": "Bát - Gạt qua back-to-back",
+      "variant": "",
+      "pinyin": "bō",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-白",
+      "label": "白",
+      "meaning": "Bạch - Màu trắng",
+      "variant": "",
+      "pinyin": "bái",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-皮",
+      "label": "皮",
+      "meaning": "Bì - Da",
+      "variant": "",
+      "pinyin": "pí",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-皿",
+      "label": "皿",
+      "meaning": "Mãnh - Cái bát/dĩa",
+      "variant": "",
+      "pinyin": "mǐn",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-目",
+      "label": "目",
+      "meaning": "Mục - Mắt",
+      "variant": "",
+      "pinyin": "mù",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-矛",
+      "label": "矛",
+      "meaning": "Mâu - Cái mâu",
+      "variant": "",
+      "pinyin": "máo",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-矢",
+      "label": "矢",
+      "meaning": "Thỉ - Mũi tên",
+      "variant": "",
+      "pinyin": "shǐ",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-石",
+      "label": "石",
+      "meaning": "Thạch - Đá",
+      "variant": "",
+      "pinyin": "shí",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-示",
+      "label": "示",
+      "meaning": "Thị - Thần linh",
+      "variant": "",
+      "pinyin": "shì",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-禸",
+      "label": "禸",
+      "meaning": "Nhựu - Vết chân",
+      "variant": "",
+      "pinyin": "róu",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-禾",
+      "label": "禾",
+      "meaning": "Hòa - Lúa",
+      "variant": "",
+      "pinyin": "hé",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-穴",
+      "label": "穴",
+      "meaning": "Huyệt - Hang",
+      "variant": "",
+      "pinyin": "xué",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "rad-立",
+      "label": "立",
+      "meaning": "Lập - Đứng",
+      "variant": "",
+      "pinyin": "lì",
+      "color": "#60a5fa"
+    }
+  ],
+  "characters": [
+    {
+      "id": "char-㐆",
+      "label": "㐆",
+      "pinyin": "yǐn",
+      "meaning": "old form of 隱",
+      "components": [
+        "rad-尸"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㐌",
+      "label": "㐌",
+      "pinyin": "yí",
+      "meaning": "a tribe of savages in South China",
+      "components": [
+        "rad-人"
+      ],
+      "etymology": "people",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㐬",
+      "label": "㐬",
+      "pinyin": "liú",
+      "meaning": "pennant; wild, barren, uncultivated",
+      "components": [
+        "rad-亠",
+        "rad-厶",
+        "rad-川"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㐭",
+      "label": "㐭",
+      "pinyin": "lǐn",
+      "meaning": "granary; to stockpile, to supply",
+      "components": [
+        "rad-亠"
+      ],
+      "etymology": "Compare 廩",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㐱",
+      "label": "㐱",
+      "pinyin": "zhěn",
+      "meaning": "bushy, black hair; variant of 鬒",
+      "components": [
+        "rad-人",
+        "rad-彡"
+      ],
+      "etymology": "hair",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㒼",
+      "label": "㒼",
+      "pinyin": "mán",
+      "meaning": "average; equivalent",
+      "components": [
+        "rad-巾",
+        "rad-入"
+      ],
+      "etymology": "To weights 入 balanced on a scale 巾",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㓞",
+      "label": "㓞",
+      "pinyin": "qià",
+      "meaning": "to engrave; a written contract or agreement",
+      "components": [
+        "rad-刀"
+      ],
+      "etymology": "knife",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㕡",
+      "label": "㕡",
+      "pinyin": "hé",
+      "meaning": "gully, pool; a ditch carved by a torrential rain",
+      "components": [
+        "rad-又"
+      ],
+      "etymology": "Water flowing through a gorge 谷",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㝵",
+      "label": "㝵",
+      "pinyin": "dé",
+      "meaning": "to obtain, to get, to acquire; ancient form of 得",
+      "components": [
+        "rad-寸"
+      ],
+      "etymology": "A hand 寸 grabbing a shell 旦",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㠯",
+      "label": "㠯",
+      "pinyin": "yǐ",
+      "meaning": "according to, for, with; to use",
+      "components": [
+        "rad-己"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㡭",
+      "label": "㡭",
+      "pinyin": "jì",
+      "meaning": "to continue; to carry on; to succeed, to inherit",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "An unbroken thread 纟 from the top to the bottom",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㢆",
+      "label": "㢆",
+      "pinyin": "chán",
+      "meaning": "store, shop, living space",
+      "components": [
+        "rad-广"
+      ],
+      "etymology": "A house 广 in a village 里",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㢟",
+      "label": "㢟",
+      "pinyin": "chān",
+      "meaning": "to walk slowly; to stroll; to ramble",
+      "components": [
+        "rad-廴",
+        "rad-止"
+      ],
+      "etymology": "A foot 止 strolling down the road 廴",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㣎",
+      "label": "㣎",
+      "pinyin": "mù",
+      "meaning": "fine, delicate",
+      "components": [
+        "rad-白",
+        "rad-小",
+        "rad-彡"
+      ],
+      "etymology": "Seeds 彡 falling off a ripe 白 plant 小",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㥯",
+      "label": "㥯",
+      "pinyin": "yǐn",
+      "meaning": "careful, prudent; compassionate; grieved; worried",
+      "components": [
+        "rad-工",
+        "rad-彐",
+        "rad-心"
+      ],
+      "etymology": "heart",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㧜",
+      "label": "㧜",
+      "pinyin": "liè",
+      "meaning": "to grasp, to hold, to pull at",
+      "components": [
+        "rad-手"
+      ],
+      "etymology": "To surround 匝 something with a hand 扌",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㬎",
+      "label": "㬎",
+      "pinyin": "xiǎn",
+      "meaning": "motes in a sunbeam; illustrious, bright",
+      "components": [
+        "rad-日",
+        "rad-幺",
+        "rad-火"
+      ],
+      "etymology": "Tiny 幺 motes of dust 灬 in a sunbeam 日",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㲋",
+      "label": "㲋",
+      "pinyin": "chuò",
+      "meaning": "rabbit, hare",
+      "components": [
+        "rad-口",
+        "rad-比"
+      ],
+      "etymology": "A rabbit looking to the left",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㳄",
+      "label": "㳄",
+      "pinyin": "xián",
+      "meaning": "saliva, spittle",
+      "components": [
+        "rad-水",
+        "rad-欠"
+      ],
+      "etymology": "water",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㼌",
+      "label": "㼌",
+      "pinyin": "yǔ",
+      "meaning": "melon patch; weary, feeble",
+      "components": [
+        "rad-瓜"
+      ],
+      "etymology": "Several melons 瓜 growing",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-㿽",
+      "label": "㿽",
+      "pinyin": "xī",
+      "meaning": "small bowl, small basin",
+      "components": [
+        "rad-皿"
+      ],
+      "etymology": "dish",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-䙴",
+      "label": "䙴",
+      "pinyin": "qiān",
+      "meaning": "to fly, to move, to change",
+      "components": [
+        "rad-大"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-䧹",
+      "label": "䧹",
+      "pinyin": "yīng",
+      "meaning": "eagle, falcon, hawk",
+      "components": [
+        "rad-广"
+      ],
+      "etymology": "bird",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丁",
+      "label": "丁",
+      "pinyin": "dīng",
+      "meaning": "male adult; robust, vigorous; 4th heavenly stem",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "A nail",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丂",
+      "label": "丂",
+      "pinyin": "kǎo",
+      "meaning": "obstruction of breath (qi); variant of 考",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-七",
+      "label": "七",
+      "pinyin": "qī",
+      "meaning": "seven",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丄",
+      "label": "丄",
+      "pinyin": "shàng",
+      "meaning": "above",
+      "components": [
+        "rad-丨",
+        "rad-一"
+      ],
+      "etymology": "One stroke on top of another; variant of 上",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-万",
+      "label": "万",
+      "pinyin": "wàn",
+      "meaning": "ten thousand; innumerable",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-三",
+      "label": "三",
+      "pinyin": "sān",
+      "meaning": "three",
+      "components": [
+        "rad-一",
+        "rad-二"
+      ],
+      "etymology": "Three  parallel lines; compare 一 (one) and 二 (two)",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-下",
+      "label": "下",
+      "pinyin": "xià",
+      "meaning": "below, underneath; inferior; to bring down; next",
+      "components": [
+        "rad-一",
+        "rad-卜"
+      ],
+      "etymology": "One stroke under another; compare 上 (above)",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丌",
+      "label": "丌",
+      "pinyin": "jī",
+      "meaning": "table",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "A table",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-不",
+      "label": "不",
+      "pinyin": "bù",
+      "meaning": "no, not, un-; negative prefix",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "A bird flying toward the sky 一",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-与",
+      "label": "与",
+      "pinyin": "yǔ",
+      "meaning": "and; with; to; for; to give, to grant",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丏",
+      "label": "丏",
+      "pinyin": "miǎn",
+      "meaning": "parapet; invisible, hidden",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丐",
+      "label": "丐",
+      "pinyin": "gài",
+      "meaning": "beggar; to beg; to give",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "A person leaning forward to ask for help",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丑",
+      "label": "丑",
+      "pinyin": "chǒu",
+      "meaning": "ugly; shameful; comedian, clown",
+      "components": [
+        "rad-刀",
+        "rad-二",
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-专",
+      "label": "专",
+      "pinyin": "zhuān",
+      "meaning": "concentrated, specialized; to monopolize",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丕",
+      "label": "丕",
+      "pinyin": "pī",
+      "meaning": "great, grand, glorious, distinguished",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-世",
+      "label": "世",
+      "pinyin": "shì",
+      "meaning": "generation, era, age; world",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "Three leaves on a branch",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丘",
+      "label": "丘",
+      "pinyin": "qiū",
+      "meaning": "mound, hill; surname",
+      "components": [
+        "rad-斤",
+        "rad-一"
+      ],
+      "etymology": "Two hills",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丙",
+      "label": "丙",
+      "pinyin": "bǐng",
+      "meaning": "third; 3rd heavenly stem",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-业",
+      "label": "业",
+      "pinyin": "yè",
+      "meaning": "business, profession; to study, to work",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丛",
+      "label": "丛",
+      "pinyin": "cóng",
+      "meaning": "bush, shrub; thicket; collection",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "one",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-东",
+      "label": "东",
+      "pinyin": "dōng",
+      "meaning": "east, eastern, eastward",
+      "components": [
+        "rad-小",
+        "rad-一"
+      ],
+      "etymology": "Simplified form of 東, the sun 日 rising behind a tree 木",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丝",
+      "label": "丝",
+      "pinyin": "sī",
+      "meaning": "silk, fine thread; wire; strings",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "Simplified form of 絲, two threads",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丞",
+      "label": "丞",
+      "pinyin": "chéng",
+      "meaning": "to aid, to assist, to rescue",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "one",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丟",
+      "label": "丟",
+      "pinyin": "diū",
+      "meaning": "to lose; to discard",
+      "components": [
+        "rad-玉",
+        "rad-厶",
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丢",
+      "label": "丢",
+      "pinyin": "diū",
+      "meaning": "to lose; to discard",
+      "components": [
+        "rad-玉",
+        "rad-厶",
+        "rad-一"
+      ],
+      "etymology": "A lost 厶 jade 玉",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-两",
+      "label": "两",
+      "pinyin": "liǎng",
+      "meaning": "two, both, pair, couple; ounce",
+      "components": [
+        "rad-一",
+        "rad-冂"
+      ],
+      "etymology": "Two people 从 together in a cart",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-严",
+      "label": "严",
+      "pinyin": "yán",
+      "meaning": "strict, rigorous, rigid; stern",
+      "components": [
+        "rad-厂",
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-並",
+      "label": "並",
+      "pinyin": "bìng",
+      "meaning": "to combine, to annex; also, what's more",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "Two people sitting side-by-side; compare 竝",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丧",
+      "label": "丧",
+      "pinyin": "sàng",
+      "meaning": "mourning; mourn; funeral",
+      "components": [
+        "rad-十"
+      ],
+      "etymology": "Simplified form of 喪; to cry 哭 over the dead 亡",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丩",
+      "label": "丩",
+      "pinyin": "jiū",
+      "meaning": "to connect, to join; vine",
+      "components": [
+        "rad-丨"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-个",
+      "label": "个",
+      "pinyin": "gè",
+      "meaning": "this, that; single; measure word for individuals",
+      "components": [
+        "rad-人",
+        "rad-丨"
+      ],
+      "etymology": "A tally 丨 of people 人",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丫",
+      "label": "丫",
+      "pinyin": "yā",
+      "meaning": "forked; bifurcation",
+      "components": [
+        "rad-丨"
+      ],
+      "etymology": "A forked line 丨",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丬",
+      "label": "丬",
+      "pinyin": "qiáng",
+      "meaning": "half of tree trunk",
+      "components": [
+        "rad-冫",
+        "rad-丨"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丰",
+      "label": "丰",
+      "pinyin": "fēng",
+      "meaning": "abundant, lush, bountiful, plenty",
+      "components": [
+        "rad-丨"
+      ],
+      "etymology": "An ear of grass",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丱",
+      "label": "丱",
+      "pinyin": "guàn",
+      "meaning": "a child's hair bound in two tufts; ore",
+      "components": [
+        "rad-丨"
+      ],
+      "etymology": "Two braids 丱 of hair",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-串",
+      "label": "串",
+      "pinyin": "chuàn",
+      "meaning": "string; relatives; to conspire",
+      "components": [
+        "rad-口",
+        "rad-丨"
+      ],
+      "etymology": "Two objects 口 strung 丨 together",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-临",
+      "label": "临",
+      "pinyin": "lín",
+      "meaning": "to draw near, to approach; to descend",
+      "components": [
+        "rad-丨"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丵",
+      "label": "丵",
+      "pinyin": "zhuó",
+      "meaning": "thick (grass)",
+      "components": [
+        "rad-干",
+        "rad-丨"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丷",
+      "label": "丷",
+      "pinyin": "ha",
+      "meaning": "kwukyel",
+      "components": [
+        "rad-丶"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丸",
+      "label": "丸",
+      "pinyin": "wán",
+      "meaning": "ball, pebble, pellet, pill",
+      "components": [
+        "rad-丶"
+      ],
+      "etymology": "A fist 九 holding a pebble 丶",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丹",
+      "label": "丹",
+      "pinyin": "dān",
+      "meaning": "cinnabar, red, vermilion; pellet, powder",
+      "components": [
+        "rad-冂",
+        "rad-亠",
+        "rad-丶"
+      ],
+      "etymology": "A red pellet 丶 from a mine 井",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-为",
+      "label": "为",
+      "pinyin": "wèi",
+      "meaning": "to do, to act; to handle, to govern; to be",
+      "components": [
+        "rad-丶",
+        "rad-力"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-主",
+      "label": "主",
+      "pinyin": "zhǔ",
+      "meaning": "to own; to host; master; host; lord",
+      "components": [
+        "rad-丶",
+        "rad-玉"
+      ],
+      "etymology": "A lamp 王 with a flame 丶",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-丽",
+      "label": "丽",
+      "pinyin": "lì",
+      "meaning": "beautiful, elegant, magnificent",
+      "components": [
+        "rad-一",
+        "rad-冂",
+        "rad-丶"
+      ],
+      "etymology": "Simplified form of 麗; the antlers of a deer 鹿",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-举",
+      "label": "举",
+      "pinyin": "jǔ",
+      "meaning": "to raise; to recommend; to praise",
+      "components": [
+        "rad-手",
+        "rad-丶"
+      ],
+      "etymology": "hand",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乂",
+      "label": "乂",
+      "pinyin": "yì",
+      "meaning": "to govern; to control; to nurture",
+      "components": [
+        "rad-丿"
+      ],
+      "etymology": "Shears, for cultivating a garden",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乃",
+      "label": "乃",
+      "pinyin": "nǎi",
+      "meaning": "then; really, indeed, after all",
+      "components": [
+        "rad-丿"
+      ],
+      "etymology": "A pregnant woman; compare 孕",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-久",
+      "label": "久",
+      "pinyin": "jiǔ",
+      "meaning": "long ago; a long time",
+      "components": [
+        "rad-勹",
+        "rad-丿"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乇",
+      "label": "乇",
+      "pinyin": "tuō",
+      "meaning": "to depend on, to entrust with",
+      "components": [
+        "rad-丿"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-么",
+      "label": "么",
+      "pinyin": "me",
+      "meaning": "interrogative particle",
+      "components": [
+        "rad-丿",
+        "rad-厶"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-义",
+      "label": "义",
+      "pinyin": "yì",
+      "meaning": "right conduct, propriety; justice",
+      "components": [
+        "rad-丶",
+        "rad-丿"
+      ],
+      "etymology": "sheep; simplified form of 義",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乌",
+      "label": "乌",
+      "pinyin": "wū",
+      "meaning": "crow, rook, raven; black, dark",
+      "components": [
+        "rad-丿"
+      ],
+      "etymology": "Simplified form of 烏; a crow; compare 鸟",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乍",
+      "label": "乍",
+      "pinyin": "zhà",
+      "meaning": "first time, for the first time, suddenly",
+      "components": [
+        "rad-丿",
+        "rad-一"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乎",
+      "label": "乎",
+      "pinyin": "hū",
+      "meaning": "interrogative or exclamatory final particle",
+      "components": [
+        "rad-丿"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乏",
+      "label": "乏",
+      "pinyin": "fá",
+      "meaning": "poor; short, lacking; tired",
+      "components": [
+        "rad-丿"
+      ],
+      "etymology": "A foot 之 running into a wall or barrier 丿",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乐",
+      "label": "乐",
+      "pinyin": "lè",
+      "meaning": "cheerful, happy, laughing; music",
+      "components": [
+        "rad-丿",
+        "rad-小"
+      ],
+      "etymology": "Simplified form of 樂, a musical instrument with wood 木, strings 幺, and a pick 白",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乑",
+      "label": "乑",
+      "pinyin": "yín",
+      "meaning": "to stand side by side",
+      "components": [
+        "rad-丿"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乒",
+      "label": "乒",
+      "pinyin": "pīng",
+      "meaning": "used with pong for ping pong",
+      "components": [
+        "rad-丿"
+      ],
+      "etymology": "A ball bouncing back and forth; compare 乓",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乓",
+      "label": "乓",
+      "pinyin": "pāng",
+      "meaning": "used with ping for ping pong",
+      "components": [
+        "rad-丶",
+        "rad-丿"
+      ],
+      "etymology": "A ball bouncing back and forth; compare 乒",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乔",
+      "label": "乔",
+      "pinyin": "qiáo",
+      "meaning": "tall, lofty; proud, stately",
+      "components": [
+        "rad-大"
+      ],
+      "etymology": "A person 夭 on stilts",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乖",
+      "label": "乖",
+      "pinyin": "guāi",
+      "meaning": "obedient, well-behaved; clever",
+      "components": [
+        "rad-丿"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-九",
+      "label": "九",
+      "pinyin": "jiǔ",
+      "meaning": "nine",
+      "components": [
+        "rad-丿",
+        "rad-乙"
+      ],
+      "etymology": "An elbow",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乞",
+      "label": "乞",
+      "pinyin": "qǐ",
+      "meaning": "to beg; to request",
+      "components": [
+        "rad-乙"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-习",
+      "label": "习",
+      "pinyin": "xí",
+      "meaning": "to study, to practice; habit",
+      "components": [
+        "rad-冫"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乡",
+      "label": "乡",
+      "pinyin": "xiāng",
+      "meaning": "country, village; rural",
+      "components": [
+        "rad-幺"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-书",
+      "label": "书",
+      "pinyin": "shū",
+      "meaning": "book, letter, document; writing",
+      "components": [
+        "rad-丨"
+      ],
+      "etymology": "A mark made by a pen ⺺",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-买",
+      "label": "买",
+      "pinyin": "mǎi",
+      "meaning": "to buy, to purchase; to bribe, to persuade",
+      "components": [
+        "rad-大"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-乶",
+      "label": "乶",
+      "pinyin": "fǔ",
+      "meaning": "Pholha, a place in Korea",
+      "components": [
+        "rad-乙"
+      ],
+      "etymology": "second",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-亂",
+      "label": "亂",
+      "pinyin": "luàn",
+      "meaning": "anarchy, chaos; revolt",
+      "components": [
+        "rad-冂",
+        "rad-厶",
+        "rad-又"
+      ],
+      "etymology": "A kneeling person 乚 using their hands 爫 to unravel a knot",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-了",
+      "label": "了",
+      "pinyin": "le",
+      "meaning": "clear; to finish; particle of completed action",
+      "components": [
+        "rad-亅"
+      ],
+      "etymology": "A child swaddled in blanklets; compare 子",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-予",
+      "label": "予",
+      "pinyin": "yǔ",
+      "meaning": "to give; to award",
+      "components": [
+        "rad-亅"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-争",
+      "label": "争",
+      "pinyin": "zhēng",
+      "meaning": "to dispute, to fight, to contend, to strive",
+      "components": [
+        "rad-彐",
+        "rad-亅"
+      ],
+      "etymology": "Simplified form of 爭, two hands 爪 and 彐 fighting over 亅",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-亍",
+      "label": "亍",
+      "pinyin": "chù",
+      "meaning": "to take small steps; Korean place name",
+      "components": [
+        "rad-一",
+        "rad-二"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-于",
+      "label": "于",
+      "pinyin": "yú",
+      "meaning": "at, in, on; to, from; alas!",
+      "components": [
+        "rad-二",
+        "rad-亅"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-亏",
+      "label": "亏",
+      "pinyin": "kuī",
+      "meaning": "to lose, to fail; loss, damages; deficient",
+      "components": [
+        "rad-二"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-云",
+      "label": "云",
+      "pinyin": "yún",
+      "meaning": "cloud; to say, to speak",
+      "components": [
+        "rad-二",
+        "rad-厶"
+      ],
+      "etymology": "A cloud",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-互",
+      "label": "互",
+      "pinyin": "hù",
+      "meaning": "mutually, reciprocally",
+      "components": [
+        "rad-二"
+      ],
+      "etymology": "Two hooks hooking eachother",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-亓",
+      "label": "亓",
+      "pinyin": "qí",
+      "meaning": "that; surname",
+      "components": [
+        "rad-二"
+      ],
+      "etymology": "",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-五",
+      "label": "五",
+      "pinyin": "wǔ",
+      "meaning": "five; surname",
+      "components": [
+        "rad-二"
+      ],
+      "etymology": "Five elements (the cross with the extra stroke) between heaven 一 and earth 一 ",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-井",
+      "label": "井",
+      "pinyin": "jǐng",
+      "meaning": "well, mine shaft, pit",
+      "components": [
+        "rad-二"
+      ],
+      "etymology": "A mine or well",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-亘",
+      "label": "亘",
+      "pinyin": "gèn",
+      "meaning": "to extend across, through; from",
+      "components": [
+        "rad-二",
+        "rad-日"
+      ],
+      "etymology": "Stretching from heaven 一 to earth 一 ",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-亙",
+      "label": "亙",
+      "pinyin": "gèn",
+      "meaning": "through; to extend across; to, from",
+      "components": [
+        "rad-二"
+      ],
+      "etymology": "A bridge laid across a river 二",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-亚",
+      "label": "亚",
+      "pinyin": "yà",
+      "meaning": "Asia; second",
+      "components": [
+        "rad-一"
+      ],
+      "etymology": "Picture of a cross-shaped house or temple",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-些",
+      "label": "些",
+      "pinyin": "xiē",
+      "meaning": "little, few; rather, somewhat",
+      "components": [
+        "rad-二"
+      ],
+      "etymology": "two",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-亞",
+      "label": "亞",
+      "pinyin": "yà",
+      "meaning": "Asia; second",
+      "components": [
+        "rad-二"
+      ],
+      "etymology": "A cross-shaped house or temple",
+      "color": "#fb7185"
+    },
+    {
+      "id": "char-亟",
+      "label": "亟",
+      "pinyin": "jiǒng",
+      "meaning": "bright, brilliant; clear; hot",
+      "components": [
+        "rad-冂",
+        "rad-八",
+        "rad-口"
+      ],
+      "etymology": "Archaic form of 炯",
+      "color": "#fb7185"
+    }
+  ]
+}
